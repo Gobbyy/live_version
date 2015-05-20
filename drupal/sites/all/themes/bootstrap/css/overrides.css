@@ -6,3 +6,16 @@ ul.nav li.dropdown:hover ul.dropdown-menu {
 ul.nav li.dropdown ul.dropdown-menu {
   margin-top: 0;
 }
+
+.navbar i.icon.glyphicon.glyphicon-search {
+  font-size: 0.7em;
+}
+.navbar button.btn.btn-default {
+  padding: 5px 10px;
+}
+.navbar input#edit-search-block-form--2 {
+  padding: 5px 10px;
+}
+.navbar .input-group {
+  width: 180px;
+}
