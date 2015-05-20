@@ -54,3 +54,7 @@ function bootstrap_theme(&$existing, $type, $theme, $path) {
  * they are properly detected when drupal_alter() is invoked.
  */
 bootstrap_include('bootstrap', 'theme/alter.inc');
+
+?>
+
+

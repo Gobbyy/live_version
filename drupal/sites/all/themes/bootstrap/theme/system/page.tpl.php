@@ -164,5 +164,7 @@
   </div>
 </div>
 <footer class="footer container">
-  <?php print render($page['footer']); ?>
+  <?php print render($page['footer']); 
+  //print site_map_page(); 
+  ?>
 </footer>
