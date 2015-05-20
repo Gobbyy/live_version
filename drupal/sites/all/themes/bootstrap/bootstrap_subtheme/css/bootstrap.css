@@ -6875,3 +6875,18 @@ div.form-item{
 #edit-captcha-response{
 	width: 15%;
 }
+#edit-search-block-form--2{
+	height: 45px;
+}
+#nav-haut{
+	font-size: 10px;
+}
+
+.col-md-2{
+	height: 60px;
+}
+
+
+.input-group{
+	height: 30px !important;
+}
